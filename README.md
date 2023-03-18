@@ -4,6 +4,10 @@
 
 # Klasemen Sepakbola
 
+![API Preview](./src/assets/classements.jpg)
+
+---
+
 ## Teknologi yang digunakan
 
 - yarn
@@ -22,7 +26,7 @@
 
 ## Cara menjalankan aplikasi
 
-Clone aplikasi ke lokal mesin anda dengan perintah git clone **`https://github.com/franskbarek/klasmen-sepakbola.git`**
+Clone aplikasi ke lokal mesin anda dengan perintah git clone https://github.com/franskbarek/klasmen-sepakbola.git
 
 Masuk ke dalam direktori aplikasi dengan perintah **`cd klasmen-sepakbola`**
 
@@ -32,7 +36,7 @@ Install dependensi dengan perintah **`npm install`** atau **`yarn`** jika menggu
 
 Jalankan aplikasi dengan perintah **`npm run dev`** atau **`yarn dev`** jika menggunakan yarn
 
-Jalankan JSON server dengan perintah **`json-server --watch db.json --port 5000`**
+Jalankan JSON server dengan perintah **`yarn json-server`**
 
 Faux API akan berjalan pada http://localhost:5000 & User Interface Aplikasi akan berjalan pada http://localhost:5173 dan siap digunakan
 
