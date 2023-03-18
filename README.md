@@ -12,8 +12,6 @@
 
 ![input-multi-skor](./src/assets/input-multi-skor.jpg)
 
----
-
 ## Teknologi yang digunakan
 
 - yarn
@@ -32,7 +30,7 @@
 
 ## Cara menjalankan aplikasi
 
-Clone aplikasi ke lokal mesin anda dengan perintah git clone https://github.com/franskbarek/klasmen-sepakbola.git
+Clone aplikasi ke lokal mesin anda dengan perintah git clone https://github.com/franskbarek/klasemen-sepakbola-v2.git
 
 Masuk ke dalam direktori aplikasi dengan perintah **`cd klasmen-sepakbola`**
 
@@ -42,7 +40,7 @@ Install dependensi dengan perintah **`npm install`** atau **`yarn`** jika menggu
 
 Jalankan aplikasi dengan perintah **`npm run dev`** atau **`yarn dev`** jika menggunakan yarn
 
-Jalankan JSON server dengan perintah **`yarn json-server`**
+Jalankan JSON server dengan perintah **`npm run json-server`** atau **`yarn json-server`** jika menggunakan yarn
 
 Faux API akan berjalan pada http://localhost:5000 & User Interface Aplikasi akan berjalan pada http://localhost:5173 dan siap digunakan
 
