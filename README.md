@@ -4,7 +4,13 @@
 
 # Klasemen Sepakbola
 
-![API Preview](./src/assets/classements.jpg)
+![classement](./src/assets/classements.jpg)
+
+![input-data-club](./src/assets/input-data-club.jpg)
+
+![input-skor](./src/assets/input-skor.jpg)
+
+![input-multi-skor](./src/assets/input-multi-skor.jpg)
 
 ---
 
